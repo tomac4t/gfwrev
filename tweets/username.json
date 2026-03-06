@@ -1,0 +1,47 @@
+{
+  "data": {
+    "id": "80831118",
+    "username": "gfwrev",
+    "name": "gfwrev (1)",
+    "bio": "Laughing Man avatar as the Guy Fawkes mask in the cypherpunk era",
+    "location": null,
+    "website": "http://gfwrev.blogspot.com",
+    "pinnedTweetIds": [],
+    "avatar": "https://pbs.twimg.com/profile_images/761852148/t2_normal.png",
+    "banner": null,
+    "profileImageShape": "Circle",
+    "verified": false,
+    "isBlueVerified": false,
+    "verifiedType": null,
+    "verifiedSince": null,
+    "isIdentityVerified": false,
+    "isProtected": false,
+    "possiblySensitive": false,
+    "profileInterstitialType": null,
+    "withheldInCountries": [],
+    "professional": null,
+    "businessAccount": {
+      "affiliatesCount": 0
+    },
+    "creatorSubscriptionsCount": 0,
+    "hasHiddenSubscriptions": false,
+    "highlightsInfo": {
+      "canHighlight": false,
+      "highlightedTweetsCount": "0"
+    },
+    "hasGraduatedAccess": true,
+    "isProfileTranslatable": false,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "affiliatesHighlightedLabel": {},
+    "defaultProfile": false,
+    "defaultProfileImage": false,
+    "followerCount": 6129,
+    "followingCount": 18,
+    "tweetCount": 211,
+    "listedCount": 212,
+    "mediaCount": 3,
+    "favoritesCount": 2,
+    "createdAt": "2009-10-08T11:54:55.000Z"
+  }
+}

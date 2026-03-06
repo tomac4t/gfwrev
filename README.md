@@ -25,5 +25,8 @@
 4. 2017-11-08 [流量分类调研](posts/流量分类调研.md)
 5. 2020-06-03 [迷你社论](posts/迷你社论.md)
 
+### 其他
 
-
+1. [推文备份](tweets/twitter_archive.md)
+2. [推文备份（含回复）](tweets/twitter_full_archive.md)
+3. [西厢计划源代码](scholarzhang0/)

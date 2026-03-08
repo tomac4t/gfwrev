@@ -31,4 +31,4 @@
 3. [西厢计划源代码](scholarzhang0/)
 4. 2008-08-07 [如何忽略防火长城](https://web.archive.org/web/20090503191041/http://www.yeeyan.com/articles/view/40085/11992)
 5. 2009-08-30 [阅后即焚：”GFW” | 自曲新闻](posts/阅后即焚：GFW.md)
-6. 2013-11-28 [和比特客栈的争吵](/posts/bitinn.net-10629.md)
+6. 2013-11-28 [和比特客栈有关“纳税人”的争论](/posts/bitinn.net-10629.md)

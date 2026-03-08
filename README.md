@@ -4,7 +4,7 @@
 
 1. 2009-10-23 [Hello world.](posts/Hello-world.md)
 2. 2009-10-27 [深入理解GFW：总论](posts/深入理解GFW：总论.md)
-3. 2009-11-02 [GFW钓鱼计划](post/GFW钓鱼计划.md)
+3. 2009-11-02 [GFW钓鱼计划](posts/GFW钓鱼计划.md)
 4. 2009-11-05 [深入理解GFW：路由扩散技术](posts/深入理解GFW：路由扩散技术.md)
 5. 2009-11-10 [GFW研究与诊断工具](posts/GFW研究与诊断工具.md)
 6. 2009-11-25 [漫谈国家安全与“个人安全”【转】](posts/漫谈国家安全与“个人安全”【转】.md)
@@ -18,7 +18,6 @@
 
 ### 增补
 
-0. 2008-08-07 [如何忽略防火长城](https://web.archive.org/web/20090503191041/http://www.yeeyan.com/articles/view/40085/11992)
 1. 2009-08-04 [入侵防御系统的评测和问题](posts/入侵防御系统的评测和问题.md)
 2. 2010-08-31 [西厢计划原理图](posts/西厢计划原理图.md)
 3. 2014-11-17 [朴素VPN：一个纯内核级静态隧道](posts/朴素VPN：一个纯内核级静态隧道.md)
@@ -30,3 +29,6 @@
 1. [推文备份](tweets/twitter_archive.md)
 2. [推文备份（含回复）](tweets/twitter_full_archive.md)
 3. [西厢计划源代码](scholarzhang0/)
+4. 2008-08-07 [如何忽略防火长城](https://web.archive.org/web/20090503191041/http://www.yeeyan.com/articles/view/40085/11992)
+5. 2009-08-30 [阅后即焚：”GFW” | 自曲新闻](posts/阅后即焚：GFW.md)
+6. 2013-11-28 [和比特客栈的争吵](/posts/bitinn.net-10629.md)
